@@ -1,0 +1,3 @@
+﻿  POSMenu.cpp
+C:\Users\dangl\source\repos\SimplePointOfSalesSystem\SimplePointOfSalesSystem\POSMenu.cpp(415): warning C4715: 'goBackToMainMenu': not all control paths return a value
+  SimplePointOfSalesSystem.vcxproj -> C:\Users\dangl\source\repos\SimplePointOfSalesSystem\x64\Debug\SimplePointOfSalesSystem.exe
